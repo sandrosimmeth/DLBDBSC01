@@ -7,7 +7,7 @@ Die Analyse untersucht globale Entwicklungsindikatoren, um eine datengetriebene 
 ## Inhalt des Repositories
 
 * `DLBDBSC01 - test.ipynb`: Das Jupyter Notebook, das den gesamten Analyseprozess von der Datenladung bis zur Visualisierung und dem Backtest enthält.
-* [cite_start]`/data/`: Enthält die Rohdaten (CSVs) von der Weltbank, die für die Analyse verwendet wurden.
+* `/data/`: Enthält die Rohdaten (CSVs) von der Weltbank, die für die Analyse verwendet wurden.
 
 ## Analytischer Ansatz
 
